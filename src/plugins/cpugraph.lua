@@ -19,13 +19,13 @@ L<wmii(1)>, L<lua(1)>
 
 =head1 AUTHOR
 
-Jean Richard <jean@geemoo.ca>
 Jan-David Quesel <jdq@gmx.net>
+Jean Richard <jean@geemoo.ca>
 
 =head1 LICENCE AND COPYRIGHT
 
-Copyright (c) 2010, Jean Richard <jean@geemoo.ca>
 Copyright (c) 2008, Jan-David Quesel <jdq@gmx.net>
+Copyright (c) 2010, Jean Richard <jean@geemoo.ca>
 
 This is free software.  You may redistribute copies of it under the terms of
 the GNU General Public License L<http://www.gnu.org/licenses/gpl.html>.  There
