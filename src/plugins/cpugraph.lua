@@ -3,12 +3,12 @@
 
 =head1 NAME
 
-cpu.lua - wmiirc-lua plugin for monitoring acpi stuff
+cpugraph.lua - wmiirc-lua plugin for monitoring cpu frequency
 
 =head1 SYNOPSIS
 
     -- in your wmiirc.lua:
-    wmii.load_plugin("cpu")
+    wmii.load_plugin("cpugraph")
 
 
 =head1 DESCRIPTION
@@ -19,10 +19,12 @@ L<wmii(1)>, L<lua(1)>
 
 =head1 AUTHOR
 
+Jean Richard <jean@geemoo.ca>
 Jan-David Quesel <jdq@gmx.net>
 
 =head1 LICENCE AND COPYRIGHT
 
+Copyright (c) 2010, Jean Richard <jean@geemoo.ca>
 Copyright (c) 2008, Jan-David Quesel <jdq@gmx.net>
 
 This is free software.  You may redistribute copies of it under the terms of
